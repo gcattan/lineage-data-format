@@ -1,0 +1,21 @@
+tests/test_smoke.py
+  s_146d3e2f01683c::t_505b2f31e72f37 1-60
+.github/workflows/ci.yml
+  s_146d3e2f01683c::t_bac06380f0c87f 46-47,49-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "69ac0844aecad407668447f784cbdafcec122049",
+  "prompts": {},
+  "sessions": {
+    "s_146d3e2f01683c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5fa2664f-7ff4-4bc9-9fe4-031d8bb17358",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Gregoire CATTAN <gregoire.cattan@ibm.com>"
+    }
+  }
+}
