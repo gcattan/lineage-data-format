@@ -1,0 +1,25 @@
+src/ldf/converter.py
+  s_4744dd14816c2a::t_aa606fe112cd7b 673-682,687,696,703-704,706-712
+tests/test_exclude_fields.py
+  s_4744dd14816c2a::t_364f9a38524c92 1232,1234-1237,1239-1249,1252-1319
+CHANGELOG.md
+  s_4744dd14816c2a::t_fd37ae9d90ae76 14-26
+README.md
+  s_4744dd14816c2a::t_c5effe7fcb8d68 163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fd994a5843d196c9befa5b43d037db898077e6e2",
+  "prompts": {},
+  "sessions": {
+    "s_4744dd14816c2a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be05769e-bf7b-4802-9eb9-395799fc1b9e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Gregoire CATTAN <gregoire.cattan@ibm.com>"
+    }
+  }
+}
